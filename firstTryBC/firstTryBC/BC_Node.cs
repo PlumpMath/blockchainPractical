@@ -17,7 +17,7 @@ namespace firstTryBC
 		public void creditWallet(int amount)
 		{
 			wallet += amount;
-		}s
+		}
 
 		public bool debitWallet(int amount)
 		{
