@@ -1,0 +1,5 @@
+/media/victor/HDD/CODE/VI/firstTryBC/firstTryBC/firstTryBC/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/victor/HDD/CODE/VI/firstTryBC/firstTryBC/firstTryBC/bin/Debug/firstTryBC.exe.mdb
+/media/victor/HDD/CODE/VI/firstTryBC/firstTryBC/firstTryBC/bin/Debug/firstTryBC.exe
+/media/victor/HDD/CODE/VI/firstTryBC/firstTryBC/firstTryBC/obj/x86/Debug/firstTryBC.exe
+/media/victor/HDD/CODE/VI/firstTryBC/firstTryBC/firstTryBC/obj/x86/Debug/firstTryBC.exe.mdb

@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="firstTryBC/firstTryBC.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstTryBC/BC_Node.cs">
+    <Files>
+      <File FileName="firstTryBC/Program.cs" Line="9" Column="4" />
+      <File FileName="firstTryBC/BC_Node.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
